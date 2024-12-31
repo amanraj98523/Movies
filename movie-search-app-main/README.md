@@ -1,6 +1,6 @@
 # 🎬 Movie Explorer
 
-**deploy Link :- https://movie-search-app-green.vercel.app/**
+**deploy Link :- https://grand-dodol-3d7b38.netlify.app/**
 
 ## Introduction 
 Movie Explorer is a web application that allows users to search for movies and view detailed information. It fetches movie data from the OMDb API and presents it in a responsive and user-friendly interface.
